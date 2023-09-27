@@ -23,3 +23,4 @@ urlpatterns = [
 ]
 
 admin.site.index_title = "Registeration"
+admin.site.site_header = "Registeration Admin"
